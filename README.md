@@ -5,4 +5,4 @@ A simple program to check running networks in a range of 254 addresses. Inspired
 Simple server and client codes for basic single socket connections. From https://realpython.com/python-sockets
 
 # flask-auth
-Simple Flask web app implementing basic user authentication using flask-login
+Simple Flask web app implementing basic user authentication using flask-login. From https://www.askpython.com/python-modules/flask/flask-user-authentication
